@@ -82,7 +82,7 @@ Languages I'm currently comfortable with (but I'm not great at anything yet):
 ## Planned Projects
 
 - [x] Set up a cool README
-- [x] Back End for the Moonlit Montessori
+- [ ] Back End for the Moonlit Montessori
 - [ ] Pretty up the front-end for Moonlit Montessori
 - [ ] COMPTIA Network+ cert
 - [ ] COMPTIA Security cert
@@ -95,7 +95,7 @@ Languages I'm currently comfortable with (but I'm not great at anything yet):
 <!-- CONTACT -->
 ## Contact
 
-Tristan Werden - [@SilverLark_](https://twitter.com/SilverLark_) - studentristan@gmail.com
+Tristan Werden - studentristan@gmail.com - 
 
 Project Link: [https://github.com/studentristan/studentristan](https://github.com/studentristan/studentristan)
 
